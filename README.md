@@ -14,6 +14,6 @@ A simple and clean weather app that shows real-time weather information using th
 - [React / Vue / Bootstrap / etc.]
 
 ## 🧑‍💻 Author
-**princechouahn3**  
+**princechouhan3**  
 [https://github.com/princechouhan3]
 
