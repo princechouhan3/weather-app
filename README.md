@@ -1,2 +1,19 @@
-# weather-app
-A simple weather app that fetches real-time weather data using an API and displays it beautifully.
+# 🌤️ Weather App
+
+A simple and clean weather app that shows real-time weather information using the OpenWeatherMap API (or any other API you used). Built with [ HTML, CSS, JavaScript, React].
+
+## 🚀 Features
+- Real-time weather data
+- Search by city
+- Temperature, humidity, wind speed
+- Responsive design
+
+## 🛠️ Technologies Used
+- HTML, CSS, JavaScript
+- OpenWeatherMap API
+- [React / Vue / Bootstrap / etc.]
+
+## 🧑‍💻 Author
+**princechouahn3**  
+[]
+
